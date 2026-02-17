@@ -1,8 +1,14 @@
+<img src="https://image2url.com/images/1765362786985-df3bb0b1-e113-40f7-a0cc-80d894c711cb.jpg"
+     alt="Logo marouane izlitne"
+     style="height:300px; margin-right:300px; float:left; border-radius:10px;">
+
+<br><br clear="left"/>
+
+
 ``` python
 from google.colab import ai
 response = ai.generate_text("What is the capital of France?")
 ```
-
 ``` python
 import numpy as np
 import IPython.display as display
