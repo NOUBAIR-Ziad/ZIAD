@@ -3,8 +3,13 @@
      style="height:300px; margin-right:300px; float:left; border-radius:10px;">
 
 <br><br clear="left"/>
+# IZLITNE_Marouane 22006529 CAC2
 
+<img src="ziadnoubair.png" style="height:464px;margin-right:432px"/>
 
+# NOUBAIR_Ziad 22007685 CAC2
+
+# École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 ``` python
 from google.colab import ai
 response = ai.generate_text("What is the capital of France?")
